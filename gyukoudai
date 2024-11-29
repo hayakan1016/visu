@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>牛工大公式サイト</title>
+<link href="base.css" rel="stylesheet" type="text/css">
+<link href="menu.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<header class="header">
+		<p class="title">
+			<a href="gyukoudai.html">
+				<img src="logo.png" width="55%" height="72%" alt>
+			</a>
+			<video loop autoplay muted src="../../../Downloads/onikuimages-1129131_h.mp4" width="55%" height="72%"></video>      
+			<p>中途半端なものは提供しません。一流の肉を格安で！</p>
+		</p>
+	</header>
+	<nav>
+		<ul class="nave-menu">
+		  <li>
+		  	<a href="gyukoudai.html">トップ</a>
+		  </li>
+		  <li>
+		    <a href="menu.html">メニュー情報</a>
+		  </li>
+		  <li>
+	      	<a href="info.html">牛工大について</a></li>
+		  <li>
+		    <a href="access.html">アクセス</a>
+		  </li>
+		</ul>
+	</nav>
+		<div class="box">
+			<article>
+				<main class="main-content">
+					<img src="素材/mise1.jpg" width="55%" height="72%" alt=""/>
+				</main>
+				<h1>牛工大のこだわり</h1>
+				<section>
+					<h2>特徴1：早い</h2>
+					<p>とにかく早いです</p>
+				</section>
+				<section>
+					<h2>特徴2：安い</h2>
+					<p>圧倒的価格を実現しました。</p>
+				</section>
+				<section>
+					<h2>特徴3：うまい</h2>
+					<p>値段にしてはうまいです。</p>
+				</section>
+			</article>
+		</div>
+</body>
+</html>
